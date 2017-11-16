@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  Main.cpp
+  MPI_MATRIX.vcxproj -> E:\VSProjects\MPI_MATRIX\x64\Debug\MPI_MATRIX.exe
+  MPI_MATRIX.vcxproj -> E:\VSProjects\MPI_MATRIX\x64\Debug\MPI_MATRIX.pdb (Full PDB)
